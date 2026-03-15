@@ -1,0 +1,1 @@
+# word_analysis_of_the_edict
